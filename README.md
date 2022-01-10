@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
-I basically reengineered the website from this youtube video https://www.youtube.com/watch?v=3dHNOWTI7H8. I made some changes because the video was written in an older version of angular so the coe was somehow useless most of the time. But now you have it as Angular 13!
+I basically reengineered the website from this youtube video https://www.youtube.com/watch?v=3dHNOWTI7H8. I made some changes because the video was written in an older version of angular so the coe was somehow useless most of the time. But now you have it as Angular 13.1.1!
 
 ## Development server
 

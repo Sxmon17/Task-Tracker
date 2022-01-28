@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
-I basically reengineered the website from this youtube video https://www.youtube.com/watch?v=3dHNOWTI7H8. I made some changes because the video was written in an older version of angular so the coe was somehow useless most of the time. But now you have it as Angular 13.1.1!
+I basically reengineered the website from this youtube video https://www.youtube.com/watch?v=3dHNOWTI7H8. I made some changes because the video was written in an older version of angular so the code was somehow useless most of the time. But now you have it as Angular 13.1.1!
 
 I also put my data in a db.json file with a json-server package https://www.npmjs.com/package/json-server.
 That means before you start with `npm run server` and after that run `ng serve` in nodeshell. After that go to `http://localhost:4200/`. Now you can close the page or reload it and the data would be saved in the database.
